@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nfc_sensor_patch/configscreen.dart';
+import 'package:nfc_sensor_patch/screens/configscreen.dart';
 import 'package:nfc_sensor_patch/sic4340/nfc_manager.dart';
 import 'package:nfc_sensor_patch/widgets/data_visualiser.dart';
 import 'package:nfc_sensor_patch/sic4340/sic4340.dart';

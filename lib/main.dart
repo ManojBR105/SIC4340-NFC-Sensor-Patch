@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_nfc_kit/flutter_nfc_kit.dart';
-import 'package:nfc_sensor_patch/widgets/photodiodescreen.dart';
-import 'package:nfc_sensor_patch/widgets/pulsescreen.dart';
-import 'package:nfc_sensor_patch/widgets/tempscreen.dart';
+import 'package:nfc_sensor_patch/screens/photodiodescreen.dart';
+import 'package:nfc_sensor_patch/screens/pulsescreen.dart';
+import 'package:nfc_sensor_patch/screens/tempscreen.dart';
 
 void main() {
   runApp(MyApp());
