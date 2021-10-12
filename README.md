@@ -18,7 +18,7 @@ The choice to select the ssensor type is given only if NFC is turned on.
 
 Sensor Select Screen: NFC off                  |  Sensor Select Screen: NFC on
 :-------------------------:|:-------------------------:
-![Sensor Select Screen: NFC off](./ss/ss1.jpg){:width="30%"} | ![Sensor Select Screen: NFC on](./ss/ss2.jpg){:width="30%"}
+<img src="https://user-images.githubusercontent.com/26399255/137006113-376d4195-5d8b-4861-9298-d7bb5eb44967.jpg" width=100%> | <img src="https://user-images.githubusercontent.com/26399255/137006115-764c30f6-bf55-457d-8a5e-3c70a9cd51d2.jpg" width=100%>
 
 #### Pulse Sensor
 
@@ -36,7 +36,7 @@ This mode is designed for a photo sensor whose voltage is dependent on amount of
 
 Sensor Screen: Before Scanning  |  Sensor Screen: Scan Timeout  |  Sensor Screen: After Scanning
 :-------------------------:|:-------------------------:|:-------------------------:
-![Before Scanning](./ss/ss3.jpg){:width="30%"} | ![Scan Timeout](./ss/ss10.jpg){:width="30%"} | ![After Scanning](./ss/ss4.jpg){:width="30%"}
+<img src="https://user-images.githubusercontent.com/26399255/137006118-c1492a59-4aa0-40bb-933f-49341e5242e6.jpg" width=100%> | <img src="https://user-images.githubusercontent.com/26399255/137006108-df667316-e5f2-4e49-8598-60a675640632.jpg" width=100%> | <img src="https://user-images.githubusercontent.com/26399255/137006122-4d731312-0cac-4c26-bee0-07aaec7a131f.jpg" width=100%>
 
 After selecting the sensor you are taken to respective sensor scan where you can view graph and few parameters displayed. Also there is an option to change buffer size. The buffer size corresponds to the size of the X-axis of the graph.
 
@@ -46,7 +46,7 @@ After the scan is succesful, a new set config button appears next to the scan bu
 
 Configuration Screen  |  Sensor Screen: After Setting Configuration  
 :-------------------------:|:-------------------------:
-![Configuration Screen](./ss/ss5.jpg){:width="30%"} | ![Sensor Screen: After Setting Configuration](./ss/ss6.jpg){:width="30%"}
+<img src=https://user-images.githubusercontent.com/26399255/137006125-3125b084-c6dc-4d8e-b631-eadf5b89c001.jpg width=100%> | <img src="https://user-images.githubusercontent.com/26399255/137006131-89f8db2c-f50f-4d57-b77c-70639d7da5a0.jpg" width=100%>
 
 ### Step 3: Start/Stop and Reset
 
@@ -54,6 +54,6 @@ After setting the configuration, the sensor screen will be updated with two new 
 
 Sensor Screen: After Starting  |  Sensor Screen: After Stopping  |  Sensor Screen: Communication error
 :-------------------------:|:-------------------------:|:-------------------------:
-![Sensor Screen: After Starting](./ss/ss8.jpg){:width="30%"} | ![Sensor Screen: stopped](./ss/ss7.jpg){:width="30%"} | ![Sensor Screen: Communication error](./ss/ss9.jpg){:width="30%"}
+<img src="https://user-images.githubusercontent.com/26399255/137006098-6c562d9a-4e21-45c0-9f3d-aadd27ca90fb.jpg" width=100%>) | <img src="https://user-images.githubusercontent.com/26399255/137006093-227d6470-d75e-4932-b9c1-d3065cf8887c.jpg" width=100%> | <img src="https://user-images.githubusercontent.com/26399255/137006104-2212316c-e438-43b9-aba4-388dde4f2b75.jpg" width=100%>
 
 The apk file of the app is available in the folder apk, for more information about the sic4340 and code visit the wiki page.
