@@ -18,7 +18,7 @@ The choice to select the ssensor type is given only if NFC is turned on.
 
 Sensor Select Screen: NFC off                  |  Sensor Select Screen: NFC on
 :-------------------------:|:-------------------------:
-![Sensor Select Screen: NFC off](./ss/ss1.jpg){width=200px} | ![Sensor Select Screen: NFC on](./ss/ss2.jpg){width=200px}
+![Sensor Select Screen: NFC off](./ss/ss1.jpg){:width="30%"} | ![Sensor Select Screen: NFC on](./ss/ss2.jpg){:width="30%"}
 
 #### Pulse Sensor
 
@@ -36,7 +36,7 @@ This mode is designed for a photo sensor whose voltage is dependent on amount of
 
 Sensor Screen: Before Scanning  |  Sensor Screen: Scan Timeout  |  Sensor Screen: After Scanning
 :-------------------------:|:-------------------------:|:-------------------------:
-![Before Scanning](./ss/ss3.jpg){width=200px} | ![Scan Timeout](./ss/ss10.jpg){width=200px}| ![After Scanning](./ss/ss4.jpg){width=200px}
+![Before Scanning](./ss/ss3.jpg){:width="30%"} | ![Scan Timeout](./ss/ss10.jpg){:width="30%"} | ![After Scanning](./ss/ss4.jpg){:width="30%"}
 
 After selecting the sensor you are taken to respective sensor scan where you can view graph and few parameters displayed. Also there is an option to change buffer size. The buffer size corresponds to the size of the X-axis of the graph.
 
@@ -46,7 +46,7 @@ After the scan is succesful, a new set config button appears next to the scan bu
 
 Configuration Screen  |  Sensor Screen: After Setting Configuration  
 :-------------------------:|:-------------------------:
-![Configuration Screen](./ss/ss5.jpg){width=200px} | ![Sensor Screen: After Setting Configuration](./ss/ss6.jpg){width=200px}
+![Configuration Screen](./ss/ss5.jpg){:width="30%"} | ![Sensor Screen: After Setting Configuration](./ss/ss6.jpg){:width="30%"}
 
 ### Step 3: Start/Stop and Reset
 
@@ -54,6 +54,6 @@ After setting the configuration, the sensor screen will be updated with two new 
 
 Sensor Screen: After Starting  |  Sensor Screen: After Stopping  |  Sensor Screen: Communication error
 :-------------------------:|:-------------------------:|:-------------------------:
-![Sensor Screen: After Starting](./ss/ss8.jpg){width=200px} | ![Sensor Screen: stopped](./ss/ss7.jpg){width=200px} | ![Sensor Screen: Communication error](./ss/ss9.jpg){width=200px}
+![Sensor Screen: After Starting](./ss/ss8.jpg){:width="30%"} | ![Sensor Screen: stopped](./ss/ss7.jpg){:width="30%"} | ![Sensor Screen: Communication error](./ss/ss9.jpg){:width="30%"}
 
 The apk file of the app is available in the folder apk, for more information about the sic4340 and code visit the wiki page.
