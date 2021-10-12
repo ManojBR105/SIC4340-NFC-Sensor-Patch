@@ -46,8 +46,14 @@ After the scan is succesful, a new set config button appears next to the scan bu
 
 Configuration Screen  |  Sensor Screen: After Setting Configuration  
 :-------------------------:|:-------------------------:
-![Before Scanning](./ss/ss5.jpg) | ![Scan Timeout](./ss/ss6.jpg)
-
-After setting the configuration, the sensor screen will be updated with two new buttons reset and start. 
+![Configuration Screen](./ss/ss5.jpg) | ![Sensor Screen: After Setting Configuration](./ss/ss6.jpg)
 
 ### Step 3: Start/Stop and Reset
+
+After setting the configuration, the sensor screen will be updated with two new buttons reset and start. The ADC will begin sampling after clicking start. Once this process begins the start and reset buttons are removed and stop button is displayed. The stop will stop the sampling process. The reset button will reset the graph to initial condition. If the tag is out of range or if there is any error in communication, an error message pops up.
+
+Sensor Screen: After Starting  |  Sensor Screen: stopped  |  Sensor Screen: Communication error
+:-------------------------:|:-------------------------:|:-------------------------:
+![Sensor Screen: After Starting](./ss/ss8.jpg) | ![Sensor Screen: stopped](./ss/ss7.jpg) | ![Sensor Screen: Communication error](./ss/ss9.jpg)
+
+The apk file of the app is available in the folder apk, for more information about the sic4340 and code visit the wiki page.
