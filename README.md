@@ -56,4 +56,4 @@ Sensor Screen: After Starting  |  Sensor Screen: After Stopping  |  Sensor Scree
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/26399255/137006098-6c562d9a-4e21-45c0-9f3d-aadd27ca90fb.jpg" width=300> | <img src="https://user-images.githubusercontent.com/26399255/137006093-227d6470-d75e-4932-b9c1-d3065cf8887c.jpg" width=300> | <img src="https://user-images.githubusercontent.com/26399255/137006104-2212316c-e438-43b9-aba4-388dde4f2b75.jpg"  width=300>
 
-The apk file of the app is available in the folder apk, for more information about the sic4340 and code visit the wiki page.
+The apk file of the app is available in the folder apk, for more information about the sic4340 and code visit the [wiki page](https://github.com/ManojBR105/SIC4340-NFC-Sensor-Patch/wiki).
